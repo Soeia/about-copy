@@ -1,0 +1,70 @@
+
+.about-page{
+  /* background-color:#FFDC9B; */
+  background-color:#F2F7FA;
+  padding: 0px;
+  padding-top: 10px;
+  margin:0px;
+  border:0px;
+}
+
+.about-headers{
+  font-family: 'Source Serif Pro', serif;
+  font-size: 40px;
+  color:#054c85;
+}
+
+.info-about{
+  font-family: 'Source Serif Pro', serif;
+  font-size: 20px;
+  color: #38318D;
+}
+
+.info-aboutus{
+  font-family: 'Source Serif Pro', serif;
+  color:#332e33;
+  font-size: 20px;
+}
+
+.mission-subheadings{
+  font-family: 'Source Serif Pro', serif;
+  font-size: 28px;
+  color:#267F9D;
+  margin-right: 0px;
+}
+
+.info-mission{
+  font-family: 'Source Serif Pro', serif;
+  color:#332e33;
+  font-size: 20px;
+}
+
+.mission{
+  background-color: #FFFAF1;
+}
+
+.mission-content{
+  padding:50px;
+  padding-top:10px;
+}
+
+.about-content{
+  padding:50px;
+  padding-top:10px;
+}
+
+.images{
+  display:flex;
+  height: 200px;
+  object-fit: cover;
+}
+
+.impact-img{
+  width:300px;
+  object-fit: contain;
+}
+
+.opp-img{
+  width:575px;
+  object-fit: contain;
+}
